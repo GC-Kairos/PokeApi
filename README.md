@@ -11,4 +11,4 @@ El desarrollo de la web de consulta Pokemon es parte de un trabajo para la mater
 ![pokeapi-consulta](https://user-images.githubusercontent.com/113116204/199803671-37ab9203-1541-4545-928f-3defb64aa956.jpg)
 
 ### Uso ###
-Abrir los archivos **HTML** con la extensión **Live Server** de **VSC** o desde **Localhost**.
+Abrir los archivos **HTML** con la extensión **Live Server** de **VSC** o desde **Localhost** para poder acceder a **+INFO**.
