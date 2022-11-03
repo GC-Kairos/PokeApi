@@ -7,5 +7,6 @@ El desarrollo de la web de consulta Pokemon es parte de un trabajo para la mater
 
 ### PokeApi Imagenes ###
 
-![consulta-pokeapi](https://user-images.githubusercontent.com/113116204/199768748-aea1603a-d804-4d5c-bb55-19ecae8b59a9.jpg)
-![consulta-pokeapi2](https://user-images.githubusercontent.com/113116204/199768757-1b6e1c37-905d-4af7-bd65-1bc65d017deb.jpg)
+![pokeapi-index](https://user-images.githubusercontent.com/113116204/199803677-8f56c5d0-aaf8-445d-8284-a377999cc6b8.jpg)
+![pokeapi-consulta](https://user-images.githubusercontent.com/113116204/199803671-37ab9203-1541-4545-928f-3defb64aa956.jpg)
+
